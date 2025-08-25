@@ -19,8 +19,7 @@ It allows users to create, update, and manage tasks with features like marking t
 - **Maven**
 
 ---
-
-## 📂 Project Structure
+## Project Structure
 src
 └── main
 ├── java/com/nikhil/taskmanager
