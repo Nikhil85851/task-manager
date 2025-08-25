@@ -18,7 +18,7 @@ It allows users to create, update, and manage tasks with features like marking t
 - **H2 Database**
 - **Maven**
 
-## Project structure
+## 📁 Project structure
 ```
 src
 └── main
