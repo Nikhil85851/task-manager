@@ -1,5 +1,37 @@
 # Task Manager API (Spring Boot + H2)
+A simple **Task Management REST API** built with **Spring Boot** and **H2 Database**.  
+It allows users to create, update, and manage tasks with features like marking tasks as completed and checking for overdue tasks. 
 
+## 🚀 Features
+- Create new tasks with title, description, and due date  
+- Fetch all tasks  
+- Mark a task as completed  
+- Get all overdue tasks  
+- In-memory H2 database for easy setup and testing  
+
+---
+
+## 🛠️ Tech Stack
+- **Java 17+**
+- **Spring Boot 3**
+- **Spring Data JPA**
+- **H2 Database**
+- **Maven**
+
+---
+
+## 📂 Project Structure
+src
+└── main
+├── java/com/nikhil/taskmanager
+│ ├── Task.java
+│ ├── TaskRepository.java
+│ ├── TaskService.java
+│ ├── TaskController.java
+│ └── TaskManagerApplication.java
+└── resources
+├── application.properties
+└── data.sql (optional for sample data)
 ### Run
 1. Install Java 17 and Maven.
 2. In terminal:
