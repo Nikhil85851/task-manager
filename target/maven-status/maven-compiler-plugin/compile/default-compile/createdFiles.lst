@@ -1,0 +1,6 @@
+com\nikhil\taskmanager\CreateTaskRequest.class
+com\nikhil\taskmanager\TaskManagerApplication.class
+com\nikhil\taskmanager\TaskController.class
+com\nikhil\taskmanager\TaskService.class
+com\nikhil\taskmanager\Task.class
+com\nikhil\taskmanager\TaskRepository.class
