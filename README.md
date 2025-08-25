@@ -31,6 +31,10 @@ src
 └── resources
 ├── application.properties
 └── data.sql (optional for sample data)
+
+
+
+
 ### Run
 1. Install Java 17 and Maven.
 2. In terminal:
