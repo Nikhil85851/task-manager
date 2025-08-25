@@ -18,8 +18,8 @@ It allows users to create, update, and manage tasks with features like marking t
 - **H2 Database**
 - **Maven**
 
----
-## Project Structure
+## Project structure
+```
 src
 └── main
 ├── java/com/nikhil/taskmanager
@@ -31,8 +31,7 @@ src
 └── resources
 ├── application.properties
 └── data.sql (optional for sample data)
----
-
+```
 
 
 ### Run
