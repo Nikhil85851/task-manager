@@ -31,7 +31,7 @@ src
 └── resources
 ├── application.properties
 └── data.sql (optional for sample data)
-
+---
 
 
 
